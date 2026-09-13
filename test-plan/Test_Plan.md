@@ -146,6 +146,12 @@ Explore the product using structured test ideas to identify unexpected behavior 
 ### Permission / Authorization Testing
 Verify that users can perform only actions allowed by their permissions.
 
+### Data Integrity Testing
+Verify that data remains accurate and consistent across edits, refreshes, and multi-step actions, without being lost, duplicated, or corrupted.
+
+### End-to-End Testing
+Verify that a complete cross-module workflow (e.g. workspace access through project, work item, and cycle) behaves correctly as a whole, not just at each individual step.
+
 ---
 
 ## 7. Test Environment
