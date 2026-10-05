@@ -23,7 +23,7 @@ Jira workflow instead of just a spreadsheet.
 - Work Item Management (create / edit / assign / status / labels / dates / cycle linkage)
 - Cycle Management (create / dates / work-item assignment / completion behavior)
 
-Full scope and out-of-scope rationale: [`Test_Plan.md`](./02-test-plan/Test_Plan.md).
+Full scope and out-of-scope rationale: [`Test_Plan.md`](./test-plan/Test_Plan.md).
 
 ## Test coverage
 
@@ -42,7 +42,7 @@ turned up a bug the original suite didn't cover. See
 
 ## Execution status
 
-Full breakdown: [`Test_Execution_Report.md`](./06-test-execution/Test_Execution_Report.md) · Release recommendation: [`Test_Summary_Report.md`](./09-test-summary-report/Test_Summary_Report.md)
+Full breakdown: [`Test_Execution_Report.md`](./test-execution/Test_Execution_Report.md) · Release recommendation: [`Test_Summary_Report.md`](./test-summary-report/Test_Summary_Report.md)
 
 | Metric | Value |
 |---|---|
